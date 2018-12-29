@@ -897,9 +897,9 @@
     {
         "class": "quick_panel_label",
         "fg": [50, 50, 50, 255],
-        "match_fg": [0, 0, 0, 255],
+        "match_fg": [34, 146, 221, 255],
         "selected_fg": [25, 25, 25, 255],
-        "selected_match_fg": [0, 0, 0, 255]
+        "selected_match_fg": [34, 146, 221, 255]
     },
     {
         "class": "quick_panel_path_label",
